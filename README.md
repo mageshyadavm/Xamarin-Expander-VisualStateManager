@@ -33,4 +33,4 @@ The appearance of the [SfExpander](https://help.syncfusion.com/cr/cref_files/xam
 {% endhighlight %}
 ```
 
-You can also refer our UG documentation to know more about [VSM]().
+You can also refer our UG documentation to know more about [VSM](https://help.syncfusion.com/xamarin/expander/apperance#visual-state-manager).
